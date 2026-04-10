@@ -9,3 +9,4 @@ This repository contains resources for managing and automating device management
 | Folder | Description |
 |---|---|
 | [Openclaw](Openclaw/) | Detection and removal scripts for the OpenClaw supply-chain compromise. Includes PowerShell (Windows) and Bash (macOS) variants for both detection and remediation, with Workspace ONE Sensor and Script integration support. |
+| [UpdateSupportedModels](UpdateSupportedModels/) | Bash script to add a supported device model ID to macOS internal app records in Workspace ONE UEM via the REST API, using OAuth 2.0 client credentials. |

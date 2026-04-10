@@ -1,1 +1,13 @@
+# macOS
 .DS_Store
+
+# Secrets
+.env
+
+# Claude
+.claude
+**/.claude
+
+# Dev/utility scripts
+banner.py
+test_ascii_art.py
